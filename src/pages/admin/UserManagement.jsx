@@ -3,7 +3,7 @@ import AdminLayout from '../../components/layout/AdminLayout'
 import Table from '../../components/Shared/Table'
 import { Avatar } from '@mui/material'
 import { dashboardData } from '../../constants/sampleData'
-import {transformImage} from '../../lib/features'
+import {transformImage} from '../../lib/Features'
 
 
 // (Not Work) Error = Data is not being received from sampledata
